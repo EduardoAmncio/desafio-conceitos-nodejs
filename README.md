@@ -48,7 +48,7 @@ This project is maked for chalenge of <a href="https://rocketseat.com.br" target
 - add a like in the repository.
 
 
-## 🏃‍♀️️🏃‍♂️️ Start <a name="start"></a>
+## 🏃‍♀️️🏃‍♂️️ Start: <a name="start"></a>
 - Clone the project: `git clone https://github.com/EduardoAmncio/desafio-conceitos-nodejs.git`
 - Install dependencies, run: `yarn`
 - Start the server, run: `yarn dev`
@@ -64,6 +64,6 @@ run: `yarn test`
 - [JavaScript](https://www.javascript.com/) - language.
 
 
-## ✍️ Authors <a name = "authors"></a>
+## ✍️ Authors: <a name = "authors"></a>
 - [@EduardoAmncio](https://github.com/EduardoAmncio).
 
