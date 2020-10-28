@@ -38,13 +38,18 @@ This project is maked for chalenge of <a href="https://rocketseat.com.br" target
 ## 🔄️ Routes in the server: <a name = "routes"></a>
 **`POST /repositories`**: 
 - This route receive a `title`, `url` and `techs` in the body and create a new repository with 0 `likes`.
+<br>
 **`GET /repositories`**: 
 - List all repositories.;
+<br> 
 **`PUT /repositories/:id`**:
 - Update an existing repository.
+<br> 
 **`DELETE /repositories/:id`**:
 - Delete an existing repository.
+<br> 
 **`POST /repositories/:id/like`**: 
+<br>
 - add a like in the repository.
 
 
